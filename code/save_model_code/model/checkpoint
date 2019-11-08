@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yeseo/ML_with_Taxidata/code/save_model_code/model/my_model.ckpt"
+all_model_checkpoint_paths: "/Users/yeseo/ML_with_Taxidata/code/save_model_code/model/my_model.ckpt"
